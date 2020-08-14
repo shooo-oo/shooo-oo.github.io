@@ -23,7 +23,7 @@ header{
     margin-left: 15px;
 }
 .logo{
-    background-image: url(image/sozai4.jpg);
+    background-image: url("https://github.com/shooo-oo/shooo-oo.github.io/blob/master/sozai4.jpg?raw=true");
     background-size: cover;
     color:#ffffff;
     height: 550px;
